@@ -140,16 +140,18 @@ Lookaheads and lookbehinds forces the main expressions to be what you have defin
 
 ## Author
 
-Christopher Even: UT coding student
+James Chukwu: UT bootCamp
 
 ### Sources and References
     * [regexr](https://regexr.com/)
     * [BackRef](https://www.regular-expressions.info/backref.html)
     * [RegExpression](https://www.regular-expressions.info/wordboundaries.html)
 
-My Github [github] https://github.com/Ceven8498
+My Github [github] https://github.com/Okingiboy
 
 
-## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+ My Github [profile] https://okingiboy.github.io/developer-profile-html-css-js-git-james/
+
+  My Github [linkedin]  https://www.linkedin.com/in/james-chukwu-238b3446/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BEHZLwPjTTfGgZGF1o%2FlQ%2Bg%3D%3D
+
